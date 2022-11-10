@@ -1,0 +1,43 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inputCont {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.inputBox {
+    width: 20rem;
+    padding: 1rem 0.5rem;
+    background: #e6e6e6;
+    border-radius: 8px;
+    color: black;
+    outline: none;
+    border: none;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+.loginBtn {
+    border-radius: 20px;
+    padding: 0.5rem 2rem;
+    font-size: 1.2rem;
+    outline: none;
+    border: none;
+    background: #baffe7;
+    color: #3b8c70;
+    align-self: flex-start;
+}

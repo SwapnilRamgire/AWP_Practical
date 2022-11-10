@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>github.png</ImageUrl>
+		<NavigateUrl>https://github.com</NavigateUrl>
+		<AlternateText>Github</AlternateText>
+		<Impressions> 20 </Impressions>
+		<Keyword>Github</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>gmail.png</ImageUrl>
+		<NavigateUrl>https://gmail.com</NavigateUrl>
+		<AlternateText>Gmail</AlternateText>
+		<Impressions> 14 </Impressions>
+		<Keyword>Gmail</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>telegram.png</ImageUrl>
+		<NavigateUrl>https://telegram.org</NavigateUrl>
+		<AlternateText>Telegram</AlternateText>
+		<Impressions> 20 </Impressions>
+		<Keyword>Telegram</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>chrome.png</ImageUrl>
+		<NavigateUrl>https://google.com</NavigateUrl>
+		<AlternateText>Google Chrome</AlternateText>
+		<Impressions> 20 </Impressions>
+		<Keyword>Google Chrome</Keyword>
+	</Ad>
+</Advertisements>
